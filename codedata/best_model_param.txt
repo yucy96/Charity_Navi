@@ -1,0 +1,3 @@
+Best Model's Params:  {'learning_decay': 0.3, 'n_topics': 15}
+Best Log Likelihood Score:  -2504928.86406
+Model Perplexity:  1109.64665427
